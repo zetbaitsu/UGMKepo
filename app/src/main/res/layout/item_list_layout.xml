@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:padding="10dp">
+
+
+        <TextView
+            android:id="@+id/niu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="NIU\t\t\t\t: 354899"/>
+
+
+        <TextView
+            android:id="@+id/nama"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nama\t\t\t: Zetra"/>
+
+        <TextView
+            android:id="@+id/prodi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:text="Prodi\t\t\t: D3 Ilmu Komputer dan Sistem Informasi SV"/>
+
+
+        <TextView
+            android:id="@+id/angkatan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Angkatan\t: 2013"/>
+
+
+</LinearLayout>
